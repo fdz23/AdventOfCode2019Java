@@ -1,4 +1,4 @@
-package javatest.Day3;
+package javatest.AdventOfCode2019Java.Day3;
 
 import java.io.IOException;
 import java.nio.file.Files;
